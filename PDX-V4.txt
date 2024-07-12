@@ -5942,13 +5942,13 @@ CCTV-14,http://110.7.128.161:8096/tsfile/live/0014_1.m3u8
 
 
 🐉北京频道,#genre#
+北京体育休闲,http://111.196.186.191:5555/rtp/239.3.1.243:8000
 北京体育休闲,http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+北京体育休闲,http://124.64.11.135:8888/rtp/239.3.1.243:8000
+北京体育休闲,http://221.220.129.217:8012/rtp/239.3.1.243:8000
 北京体育休闲,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
-北京体育休闲,http://123.122.162.250:19999/rtp/239.3.1.243:8000
-北京体育休闲,http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
 北京体育休闲,http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
-北京体育休闲,http://123.113.248.110:8888/rtp/239.3.1.243:8000
-北京体育休闲,http://221.216.132.178:8118/rtp/239.3.1.243:8000
+北京体育休闲,http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
 BTV新闻,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvxw&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 BTV影视,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvys&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 BTV文艺,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvwy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
