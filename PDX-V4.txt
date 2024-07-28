@@ -20,30 +20,64 @@ CCTV4K 需将UA改成'okhttp/3',http://148.135.93.213:81/live.php?id=CCTV4K
 CCTV16-4K 需将UA改成'okhttp/3',http://148.135.93.213:81/live.php?id=CCTV16-4K
 CCTV1-4K 需将UA改成'okhttp/3',http://148.135.93.213:81/live.php?id=CCTV1-4K
 CCTV5-4K 需将UA改成'okhttp/3',http://148.135.93.213:81/live.php?id=CCTV5-4K
- 马来西亚奧運780台,https://pn1ari.sky4k.eu.org/live/AOTG780temp.m3u8
- 马来西亚奧運781台,https://pn1ari.sky4k.eu.org/live/AOTG781temp.m3u8
- 马来西亚奧運782台,https://pn1ari.sky4k.eu.org/live/AOTG782temp.m3u8
- 马来西亚奧運783台,https://pn1ari.sky4k.eu.org/live/AOTG783temp.m3u8
- 马来西亚奧運784台,https://pn1ari.sky4k.eu.org/live/AOTG784temp.m3u8
- TVB奥运新聞台,https://mytv.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运801台,https://mytv.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运802台,https://mytv.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运803台,https://mytv.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运804台,https://mytv.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运805台,https://mytv.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运806台,https://mytv.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运807台,https://mytv.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运808台,https://mytv.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运809台,https://mytv.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运810台,https://mytv.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运811台,https://mytv.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运812台,https://mytv.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运813台,https://mytv.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运814台,https://mytv.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运815台,https://mytv.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运816台,https://mytv.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奧運互動窗 1,https://mytv.btjson.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奧運互動窗 2,https://mytv.btjson.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ELTA奥运1台,http://cdn.1678520.xyz/xsj.php?id=elta-oly1
+ELTA奥运2台,http://cdn.1678520.xyz/xsj.php?id=elta-oly2
+ELTA奥运3台,http://cdn.1678520.xyz/xsj.php?id=elta-oly3
+ELTA奥运4台,http://cdn.1678520.xyz/xsj.php?id=elta-oly4
+ELTA奥运5台,http://cdn.1678520.xyz/xsj.php?id=elta-oly5
+ELTA奥运6台,http://cdn.1678520.xyz/xsj.php?id=elta-oly6
+ELTA奥运7台,http://cdn.1678520.xyz/xsj.php?id=elta-oly7
+ TVB奧運801台,https://mytvsuper.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運802台,https://mytvsuper.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運803台,https://mytvsuper.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運804台,https://mytvsuper.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運805台,https://mytvsuper.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運806台,https://mytvsuper.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運807台,https://mytvsuper.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運808台,https://mytvsuper.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運809台,https://mytvsuper.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運810台,https://mytvsuper.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運811台,https://mytvsuper.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運812台,https://mytvsuper.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運813台,https://mytvsuper.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運814台,https://mytvsuper.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運815台,https://mytvsuper.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運816台,https://mytvsuper.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ TVB奧運817台,https://mytvsuper.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+Astro OLY 1台,http://cdn.1678520.xyz/xsj.php?id=astro-oly1
+Astro OLY 2台,http://cdn.1678520.xyz/xsj.php?id=astro-oly2
+Astro OLY 3台,http://cdn.1678520.xyz/xsj.php?id=astro-oly3
+Astro OLY 4台,http://cdn.1678520.xyz/xsj.php?id=astro-oly4
+Astro OLY 5台,http://cdn.1678520.xyz/xsj.php?id=astro-oly5
+Astro OLY 6台,http://cdn.1678520.xyz/xsj.php?id=astro-oly6
+Astro OLY 7台,http://cdn.1678520.xyz/xsj.php?id=astro-oly7
+Astro OLY 8台,http://cdn.1678520.xyz/xsj.php?id=astro-oly8
+Astro OLY 9台,http://cdn.1678520.xyz/xsj.php?id=astro-oly9
+Astro OLY 10台,http://cdn.1678520.xyz/xsj.php?id=astro-oly10
+Astro OLY 11台,http://cdn.1678520.xyz/xsj.php?id=astro-oly11
+Astro OLY 12台,http://cdn.1678520.xyz/xsj.php?id=astro-oly12
+Astro OLY 13台,http://cdn.1678520.xyz/xsj.php?id=astro-oly13
+Astro OLY 14台,http://cdn.1678520.xyz/xsj.php?id=astro-oly14
+Astro OLY 15台,http://cdn.1678520.xyz/xsj.php?id=astro-oly15
+Astro OLY 16台,http://cdn.1678520.xyz/xsj.php?id=astro-oly16
+Mediacorp 奥运1台,http://cdn.1678520.xyz/xsj.php?id=mediacorp1
+Mediacorp 奥运2台,http://cdn.1678520.xyz/xsj.php?id=mediacorp2
+Mediacorp 奥运3台,http://cdn.1678520.xyz/xsj.php?id=mediacorp3
+Mediacorp 奥运4台,http://cdn.1678520.xyz/xsj.php?id=mediacorp4
+Mediacorp 奥运5台,http://cdn.1678520.xyz/xsj.php?id=mediacorp5
+Mediacorp 奥运6台,http://cdn.1678520.xyz/xsj.php?id=mediacorp6
+Mediacorp 奥运7台,http://cdn.1678520.xyz/xsj.php?id=mediacorp7
+Mediacorp 奥运8台,http://cdn.1678520.xyz/xsj.php?id=mediacorp8
+Mediacorp 奥运9台,http://cdn.1678520.xyz/xsj.php?id=mediacorp9
+Mediacorp 奥运10台,http://cdn.1678520.xyz/xsj.php?id=mediacorp10
+Mediacorp 奥运11台,http://cdn.1678520.xyz/xsj.php?id=mediacorp11
+Mediacorp 奥运12台,http://cdn.1678520.xyz/xsj.php?id=mediacorp12
+Mediacorp 奥运13台,http://cdn.1678520.xyz/xsj.php?id=mediacorp13
+Mediacorp 奥运14台,http://cdn.1678520.xyz/xsj.php?id=mediacorp14
+Mediacorp 奥运15台,http://cdn.1678520.xyz/xsj.php?id=mediacorp15
+Mediacorp 奥运16台,http://cdn.1678520.xyz/xsj.php?id=mediacorp16
+Mediacorp 奥运17台,http://cdn.1678520.xyz/xsj.php?id=mediacorp17
+
 
 🐉独家线路🐯,#genre#
 👉添加售后唯一微信👈,https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
