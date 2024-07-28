@@ -1287,60 +1287,65 @@ BT体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
 贝因体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
 贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
 贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
-
-国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-红牛电视,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
-ATG (432p),https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-Awapa Sports TV (1080p) [Not 24/7],https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-CAF TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
-CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
-Canal 11 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
-Canal do Inter (720p) [Not 24/7],https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-Canal Motor (720p),https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-CazéTV (1080p) [Geo-blocked],https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
-DD Sports (576p),http://103.199.161.254/Content/ddsports/Live/Channel%28DDSPORTS%29/index.m3u8
-DeporTV (1080p) [Not 24/7],https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-DSTV (720p),http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-Fight Network (1080p),https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
-fubo Sports Network (720p),https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-FUEL TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
-Gaora Sports (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-IMPACT Wrestling (1080p),https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-J Sports 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-J Sports 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-J Sports 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-J Sports 4 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-La Redonda TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
-M-Net Sport (720p),http://ares.mnet.mk/hls/mnet-sport.m3u8
-MUTV (720p),https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-Ovacion TV (720p) [Not 24/7],http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-Pac 12 Insider (1080p),https://pac12-roku-us.amagi.tv/playlist.m3u8
-Racing.com (720p),https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-Real Madrid,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-Red Bull TV (1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-San Marino RTV Sport (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-Ski TV (1080p) [Not 24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-Teletrak (720p),https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-TR Sport (480p),https://livetr.teleromagna.it/mia/live/playlist.m3u8
-Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
-TVMAX (720p),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-Unbeaten (1080p),https://unbeaten-tcl.amagi.tv/playlist.m3u8
-Астрахань.Ru Sport (720p),https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
-Старт (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start/start0.m3u8
-Старт Триумф (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-
+Supersports 1,http://fm1077.serv00.net/Smart.php?id=Assp1
+Supersports 1(備用),http://fm1077.serv00.net/Smart.php?id=go_assp1
+Supersportq 1(備用2),http://fm1077.serv00.net/Smart.php?id=Assp1_mega
+Supersports 2,http://fm1077.serv00.net/Smart.php?id=Assp2
+Supersports 2(備用),http://fm1077.serv00.net/Smart.php?id=go_assp2
+Supersports 3,http://fm1077.serv00.net/Smart.php?id=Assp3
+Supersports 3(備用),http://fm1077.serv00.net/Smart.php?id=go_assp3
+Supersports 3(備用2),http://fm1077.serv00.net/Smart.php?id=Assp3_mega
+Supersports 4,http://fm1077.serv00.net/Smart.php?id=Assp4_mega
+Supersports 4(備用),http://fm1077.serv00.net/Smart.php?id=go_assp4
+Supersports 5,http://fm1077.serv00.net/Smart.php?id=go_assp5
+Bein 2HD,http://fm1077.serv00.net/Smart.php?id=Beinhd
+Beinsports HD,http://fm1077.serv00.net/Smart.php?id=Besports
+Champion 5 EPL,http://fm1077.serv00.net/Smart.php?id=Champion5epl
+WWE,http://fm1077.serv00.net/Smart.php?id=Wwe
+Champion 6 EPL,http://fm1077.serv00.net/Smart.php?id=Champion6epl
+Fight Sports,http://fm1077.serv00.net/Smart.php?id=Fs
+UFC Network,http://fm1077.serv00.net/Smart.php?id=ufc_mega
+NBA TV,http://fm1077.serv00.net/Smart.php?id=nbatv_twn
+Astro Cricket,http://fm1077.serv00.net/Smart.php?id=Acricket_mega
+Astro Golf,http://fm1077.serv00.net/Smart.php?id=Agolf
+TNT Sports 1,http://fm1077.serv00.net/Smart.php?id=beeone
+TNT Sports 2,http://fm1077.serv00.net/Smart.php?id=beetwo
+TNT Sports 3,http://fm1077.serv00.net/Smart.php?id=beethree
+TNT Sports 4,http://fm1077.serv00.net/Smart.php?id=beefour
+Sony Ten 1,http://fm1077.serv00.net/Smart.php?id=ten1_raj
+Sony Ten 2,http://fm1077.serv00.net/Smart.php?id=ten2_raj
+Sony Ten 3,http://fm1077.serv00.net/Smart.php?id=ten3_raj
+SPOTV 1 HD,http://fm1077.serv00.net/Smart.php?id=go_spotv
+SPO TV 2,http://fm1077.serv00.net/Smart.php?id=go_spotv2
+Beinsports 2 HD,http://fm1077.serv00.net/Smart.php?id=Bein2hd
+Skysports Arena,http://fm1077.serv00.net/Smart.php?id=tiankongarena
+Skysports F1,http://fm1077.serv00.net/Smart.php?id=tiankongf1
+Skysports Cricket,http://fm1077.serv00.net/Smart.php?id=tiankongcricket
+Skysports EPL,http://fm1077.serv00.net/Smart.php?id=tiankongepl
+Skysports Football,http://fm1077.serv00.net/Smart.php?id=tiankongfootball
+Skysports Golf,http://fm1077.serv00.net/Smart.php?id=tiankonggolf
+Skysports Main Event,http://fm1077.serv00.net/Smart.php?id=tiankongmain
+Skysports News,http://fm1077.serv00.net/Smart.php?id=tiankongnews
+Skysports NFL,http://fm1077.serv00.net/Smart.php?id=tiankongnfl
+Skysports Racing,http://fm1077.serv00.net/Smart.php?id=tiankongracing
+Skysports Mix,http://fm1077.serv00.net/Smart.php?id=tiankongmix
+CCTV-5,http://fm1077.serv00.net/Smart.php?id=cctv5
+CCTV-5+,http://fm1077.serv00.net/Smart.php?id=cctv5plus
+愛爾達體育2台,http://fm1077.serv00.net/Smart.php?id=eltasport2_twn
+愛爾達體育3台,http://fm1077.serv00.net/Smart.php?id=eltasport3_twn
+RTM Sports HD,http://fm1077.serv00.net/Smart.php?id=Rtmsport
+Arena,http://fm1077.serv00.net/Smart.php?id=Arena
+Arena 2,http://fm1077.serv00.net/Smart.php?id=Arena2
+BolaArena 1,http://fm1077.serv00.net/Smart.php?id=Bolaarena1
+Bein 1 Sports,http://fm1077.serv00.net/Smart.php?id=bein1_mega
+Bein 2 Sports,http://fm1077.serv00.net/Smart.php?id=bein2_mega
+Bein 3 Sports,http://fm1077.serv00.net/Smart.php?id=bein3_mega
+Bein 4 Sports,http://fm1077.serv00.net/Smart.php?id=bein4_mega
+Bein 5 Sports,http://fm1077.serv00.net/Smart.php?id=bein5_mega
+Bein 6 Sports,http://fm1077.serv00.net/Smart.php?id=bein6_mega
+Bein 7 Sports,http://fm1077.serv00.net/Smart.php?id=bein7_mega
+Rugby Pass TV,http://fm1077.serv00.net/Smart.php?id=Rugbypasstv
+BolaArena 2,http://fm1077.serv00.net/Smart.php?id=Bolaarena2
 
 🐉咪咕视频-①🏆,#genre#
 咪咕视频1,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
