@@ -5344,6 +5344,14 @@ BTV科教,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e4
 
 
 🐉各地方频道,#genre#
+湖北经视,http://122.189.195.142:888/udp/228.0.0.125:6108
+湖北经视,http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
+湖北经视,http://27.16.176.143:8989/rtp/239.69.1.41:9886
+湖北经视,http://bl.dchwtq.asia:10000/rtp/239.69.1.41:9886
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8
+湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
