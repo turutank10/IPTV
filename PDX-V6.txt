@@ -779,6 +779,19 @@ IMPACT Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
  Fox Sports 1,https://tv.iill.top/beesport/Fox_Sports_1_Live_TV
  Fox Sports 2,https://tv.iill.top/beesport/Fox_Sports_2_Live_TV
  FOX News,https://tv.iill.top/beesport/FOX_NEWS_Live_TV
+MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
+福克斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+格极限斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+BT体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+贝因体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
+贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
+贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
 
 🐉咪咕视频-①🏆,#genre#
 👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
