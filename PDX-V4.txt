@@ -5159,14 +5159,35 @@ CCTV-14,http://110.7.128.161:8096/tsfile/live/0014_1.m3u8
 
 
 🐉上海频道,#genre#
-五星体育「组播」,http://www.17888.fun:10000/udp/239.45.3.210:5140
-五星体育「组播」,http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
-五星体育「组播」,http://222.64.56.17:6666/udp/239.45.3.210:5140
-五星体育「组播」,http://58.41.27.144:18888/udp/239.45.3.210:5140
-五星体育「组播」,http://180.171.56.119:10000/udp/239.45.3.210:5140
-五星体育「组播」,http://116.226.8.253:8881/udp/239.45.3.210:5140
-五星体育「组播」,http://139.196.214.238:13013/udp/239.45.3.210:5140
-五星体育「组播」,http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8
+五星体育,http://www.17888.fun:10000/udp/239.45.3.210:5140
+五星体育,http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
+五星体育,http://222.64.56.17:6666/udp/239.45.3.210:5140
+五星体育,http://58.41.27.144:18888/udp/239.45.3.210:5140
+五星体育,http://180.171.56.119:10000/udp/239.45.3.210:5140
+五星体育,http://116.226.8.253:8881/udp/239.45.3.210:5140
+五星体育,http://139.196.214.238:13013/udp/239.45.3.210:5140
+五星体育,http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8
+新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031110/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031110
+都市频道,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000018926/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018926
+第一财经,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000027146/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027146
+纪实人文,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000016545/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016545
+东方财经,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
+东方影视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
+五星体育,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
+劲爆体育,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
+超级体育,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000004876/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000004876
+国际频道,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000030951/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030951
+都市剧场,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031111/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031111
+哈哈炫动,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031123
+动漫秀场,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031113/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031113
+欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455
+法治天地,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424
+游戏风云,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114
+生活时尚,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000019634/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000019634
+金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
+魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
+七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031116/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031116
+乐游频道,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031112/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031112
 新闻综合,http://222.64.56.17:6666/udp/239.45.3.209:5140
 上海都市,http://222.64.56.17:6666/udp/239.45.3.236:5140
 五星体育,http://222.64.56.17:6666/udp/239.45.3.210:5140
