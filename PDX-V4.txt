@@ -57,7 +57,6 @@ UK: Sky Sports Main Event 4K,http://doubleclicktv.live/70376812/52663544/620667
 🐉独家线路🐯,#genre#
 👉卡顿请左右键切换源👈,https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 👉选择流畅的线路观看👈,https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
-央视频道,#genre#
 CCTV1,http://59.32.97.203:9901/tsfile/live/23018_1.m3u8
 CCTV1,https://livednow.com/migu/608807420?sign=gAAAAABmxHgUrjH-dgPcqiZFuIyroO-XJPVIczmTvjf1lTilmO63CCmSu-o8fD3Kr4EmxmrqnFSdpkXblTzdFYgG82CCw6fFQJwNUUEKY3ZI4t1dz9j7aRhSHLQM4nXipMaGF15z42Nys9AqNu-C5wSRDwcI4VdRv-dxEEfyvA5jdoU8-hmEU3vCVv_Xe4DQ37Lt-WKlPKZNqIfz7iwmrOsNZBnbQLFlsA%3D%3D
 CCTV1,https://livednow.com/migu/608807420?sign=gAAAAABmwyZNGPM1ay1meCLKXXb_L-R4Kx3CzMD5iM57ijZQC7vRutJGubCkzICTfVErlUae2QDF0Mfq3RfT-hdj0l9JBwLfl2X5F_o6qjV5LeEzv8_VShZlh-hme_IeyjmJ6audWLOJAi2cjkG1IIGUoTuzo6GeAbSNiIPdtXNZa8v5OSDjCKdMYxJNS2jwy6bbQLk0_SEoocKOkkNbf3czSi0-qRoZDQ%3D%3D
@@ -471,11 +470,6 @@ CCTV16,http://124.230.56.165:55555/udp/239.76.246.98:1234
 CCTV17,http://www.dsmcloud.top:8888/rtp/239.81.0.228:4056
 CCTV17,http://124.230.56.165:55555/udp/239.76.245.238:1234
 CCTV17,http://61.190.129.195:8688/rtp/238.1.78.178:7296
-港台频道,#genre#
-凤凰中文,http://124.230.56.165:55555/udp/239.76.246.135:1234
-凤凰中文,http://124.230.56.165:55555/udp/239.76.253.135:9000
-凤凰资讯,http://124.230.56.165:55555/udp/239.76.253.134:9000
-卫视频道,#genre#
 北京卫视,http://www.dsmcloud.top:8888/rtp/239.81.0.109:4056
 浙江卫视,http://www.dsmcloud.top:8888/rtp/239.81.0.108:4056
 江苏卫视,http://www.dsmcloud.top:8888/rtp/239.81.0.106:4056
@@ -565,7 +559,6 @@ CCTV17,http://61.190.129.195:8688/rtp/238.1.78.178:7296
 🐉联通专线「多线路」,#genre#
 👉卡顿请左右键切换源👈,https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 👉选择流畅的线路观看👈,https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
-央视频道,#genre#
 CCTV1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 CCTV1,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.129:8008
 CCTV1,http://neucn.asuscomm.cn:23234/rtp/239.3.1.129:8008
@@ -623,7 +616,6 @@ CCTV16,http://neucn.asuscomm.cn:23234/rtp/239.3.1.184:8001
 CCTV17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 CCTV17,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.151:8144
 CCTV17,http://neucn.asuscomm.cn:23234/rtp/239.3.1.151:8144
-卫视频道,#genre#
 北京卫视,http://218.241.192.50:8808/rtp/239.3.1.241:8000
 湖南卫视,http://218.241.192.50:8808/rtp/239.3.1.132:8012
 东方卫视,http://218.241.192.50:8808/rtp/239.3.1.136:8032
