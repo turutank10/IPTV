@@ -4744,7 +4744,7 @@ CCTV-14,http://110.7.128.161:8096/tsfile/live/0014_1.m3u8
 
 
 🐉上海频道,#genre#
-五星体育「IPV6」,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://www.17888.fun:10000/udp/239.45.3.210:5140
 五星体育,http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
