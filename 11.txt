@@ -327,8 +327,8 @@ TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB-jade,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
-台湾频道,#genre#
 
+台湾频道,#genre#
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
 台視,rtmp://f13h.mine.nu/sat/tv071
@@ -337,6 +337,9 @@ TVB-jade,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/pla
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 東森超視,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -468,7 +471,6 @@ Smart知識台,http://222.186.57.43:22222/php/litv.php?id=litv-longturn19&token=
 埋堆堆 𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
 🐉斗鱼轮播🦈,#genre#
-👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 「斗鱼」警匪电影,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 「斗鱼」香港经典,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 「斗鱼」国外大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
@@ -870,7 +872,6 @@ pptersgxx,https://www.goodiptv.club/douyu/11987909
 
 
 🐉虎牙轮播🐯,#genre#
-👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
 电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
