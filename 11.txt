@@ -1,4 +1,5 @@
-👉卡顿请左右键切换源👈,https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+👉卡顿请左右键切换源👈,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
+GeoDaSilvaJ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5avW4gUo47zhvwU.mp4
 🐉央视频道【V6】🐉,#genre#
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
@@ -288,10 +289,11 @@ NewTV魅力吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/
 凤凰香港,http://222.186.57.43:22222/php/fhx.php?id=fhhk&token=512df05ba376d24347056188734991c661df7b2f5e014001
 凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
 凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
-无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&token=512df05ba376d24347056188734991c661df7b2f5e014001
-翡翠台,https://cdn.iptv8k.top/dl/jspd.php?id=3&token=512df05ba376d24347056188734991c661df7b2f5e014001
-星河台,https://cdn.iptv8k.top/dl/jspd.php?id=4&token=512df05ba376d24347056188734991c661df7b2f5e014001
-经典台,https://cdn.iptv8k.top/dl/jspd.php?id=5&token=512df05ba376d24347056188734991c661df7b2f5e014001
+TVB星河,http://metatvpro.xyz:25461/live/K4011/5244/12206.m3u8
+TVB翡翠,http://metatvpro.xyz:25461/live/K4011/5244/12205.m3u8
+TVB明珠,http://metatvpro.xyz:25461/live/K4011/5244/12207.m3u8
+TVBJ2,http://metatvpro.xyz:25461/live/K4011/5244/12209.m3u8
+无线新闻,http://metatvpro.xyz:25461/live/K4011/5244/12206.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 港台电视31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
@@ -326,10 +328,7 @@ TVB-jade,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/pla
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
 台湾频道,#genre#
-中天新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=1
-中天電視2台,http://cdn.iptv8k.top/dl/jspd.php?id=23
-中天亞洲台,http://cdn.iptv8k.top/dl/jspd.php?id=12
-環宇新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=7
+
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
 台視,rtmp://f13h.mine.nu/sat/tv071
@@ -338,6 +337,18 @@ TVB-jade,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/pla
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 東森超視,rtmp://f13h.mine.nu/sat/tv331
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亚洲频道,http://61.221.215.25:8800/hls/50/index.m3u8
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 民視台灣台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv001&token=512df05ba376d24347056188734991c661df7b2f5e014001
 民視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv002&token=512df05ba376d24347056188734991c661df7b2f5e014001
 民視第壹台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv003&token=512df05ba376d24347056188734991c661df7b2f5e014001
